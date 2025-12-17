@@ -76,3 +76,6 @@ DerivedDataCache/*
 # Temp Files
 Config/DefaultEditorPerProjectUserSettings.ini
 
+# Heavy Assets
+Stylized_Spruce_Forest/*
+
